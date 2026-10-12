@@ -1,0 +1,17 @@
+[
+  {
+    "title": "BSI certified (UK)",
+    "image": "/assets/cert-bsi.png",
+    "pdf": "/assets/BSI-UK-Certificate.pdf"
+  },
+  {
+    "title": "SGS RoHS Test Certificate",
+    "image": "/assets/cert-sgs.png",
+    "pdf": "/assets/SGS-RoHS-Test-Certificate.pdf"
+  },
+  {
+    "title": "Renolit warranty certificate",
+    "image": "/assets/cert-renolit.png",
+    "pdf": "/assets/Renolit-warranty-certificate.pdf"
+  }
+]

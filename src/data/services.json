@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "free-maintenece",
+    "title": "free maintenece",
+    "icon": "icon-single",
+    "shortDesc": "Learn how JB Whitesquare's Free Maintenance service for uPVC doors and windows offers you peace of mind. Our expert technicians ensure your doors and windows remain in top condition.",
+    "contentHtml": "Learn how JB Whitesquare's Free Maintenance service for uPVC doors and windows offers you peace of mind. Our expert technicians ensure your doors and windows remain in top condition."
+  },
+  {
+    "slug": "own-production",
+    "title": "Own production",
+    "icon": "icon-sketch",
+    "shortDesc": "Discover JB Whitesquare's exclusive uPVC for doors and windows, crafted with precision for durability and style. Explore our range of premium quality solutions.",
+    "contentHtml": "Discover JB Whitesquare's exclusive uPVC for doors and windows, crafted with precision for durability and style. Explore our range of premium quality solutions."
+  },
+  {
+    "slug": "free-measurement",
+    "title": "Free measurement",
+    "icon": "icon-ruler",
+    "shortDesc": "Free measurement is allowing customers to have their windows professionally measured without any additional cost.",
+    "contentHtml": "Free measurement is allowing customers to have their windows professionally measured without any additional cost."
+  },
+  {
+    "slug": "quick-installation",
+    "title": "Quick installation",
+    "icon": "icon-stage",
+    "shortDesc": "Effortlessly upgrade your windows with our quick installation service, ensuring swift and hassle-free enhancement for your home.",
+    "contentHtml": "Effortlessly upgrade your windows with our quick installation service, ensuring swift and hassle-free enhancement for your home."
+  },
+  {
+    "slug": "interior-design-services",
+    "title": "Interior Design Services",
+    "icon": "icon-single",
+    "shortDesc": "Tailored interior design services for residential and commercial spaces.",
+    "contentHtml": "Tailored interior design services for residential and commercial spaces."
+  },
+  {
+    "slug": "custom-interior-work",
+    "title": "Custom Interior Work",
+    "icon": "icon-sketch",
+    "shortDesc": "Custom interior uPVC craft and fittings suited to your architectural requirements.",
+    "contentHtml": "Custom interior uPVC craft and fittings suited to your architectural requirements."
+  },
+  {
+    "slug": "glass-work-services",
+    "title": "Glass Work Services",
+    "icon": "icon-standard",
+    "shortDesc": "High performance double-glazed, toughened and decorative glass installation.",
+    "contentHtml": "High performance double-glazed, toughened and decorative glass installation."
+  },
+  {
+    "slug": "custom-stairs-services",
+    "title": "Custom Stairs Services",
+    "icon": "icon-vintage",
+    "shortDesc": "Stair solutions and enclosures designed with modern materials.",
+    "contentHtml": "Stair solutions and enclosures designed with modern materials."
+  },
+  {
+    "slug": "handrails-design-installation-services",
+    "title": "Handrails Design & Installation Services",
+    "icon": "icon-wide",
+    "shortDesc": "Safe, stylish, and weather-resistant handrail designs.",
+    "contentHtml": "Safe, stylish, and weather-resistant handrail designs."
+  }
+]

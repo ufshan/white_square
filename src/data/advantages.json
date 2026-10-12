@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Energy Saving Technologies",
+    "icon": "icon-green-energy"
+  },
+  {
+    "name": "Excellent Sound Insulation",
+    "icon": "icon-sound"
+  },
+  {
+    "name": "High Light Transmittance",
+    "icon": "icon-sun"
+  },
+  {
+    "name": "Durability. 10 years warranty",
+    "icon": "icon-protect"
+  },
+  {
+    "name": "Eco-friendly materials",
+    "icon": "icon-leaf"
+  },
+  {
+    "name": "Modern thoughtful design",
+    "icon": "icon-pantone"
+  }
+]

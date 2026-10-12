@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Antony Taylor",
+    "role": "Founder & Managing Director",
+    "image": "/assets/office-photo.png"
+  },
+  {
+    "name": "Denis Green",
+    "role": "Head of Technical Production",
+    "image": "/assets/wood-form-worker.png"
+  },
+  {
+    "name": "Sherman Warner",
+    "role": "Lead Installation Engineer",
+    "image": "/assets/office-photo.png"
+  },
+  {
+    "name": "Kelley Miles",
+    "role": "Senior Design Architect",
+    "image": "/assets/office-photo.png"
+  }
+]

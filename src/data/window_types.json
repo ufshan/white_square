@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Single",
+    "icon": "icon-single"
+  },
+  {
+    "name": "Standard",
+    "icon": "icon-standard"
+  },
+  {
+    "name": "Wide Windows",
+    "icon": "icon-wide"
+  },
+  {
+    "name": "Vintage",
+    "icon": "icon-vintage"
+  },
+  {
+    "name": "Office Type",
+    "icon": "icon-office"
+  },
+  {
+    "name": "Decorative",
+    "icon": "icon-decorative"
+  }
+]

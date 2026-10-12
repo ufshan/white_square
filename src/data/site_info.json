@@ -1,0 +1,46 @@
+{
+  "name": "White Square UPVC Windoor",
+  "company": "JB Group",
+  "founded": 2007,
+  "phone1": "+91 9072900024",
+  "phone2": "+91 9072000006",
+  "email1": "Sales@jbwhitesquare.com",
+  "email2": "Info@jbwhitesquare.com",
+  "address": "Tirur , Malappuram , kerala",
+  "hours": [
+    {
+      "day": "Monday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Friday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "time": "CLOSED"
+    }
+  ],
+  "socials": {
+    "facebook": "https://www.facebook.com/profile.php?id=61570362713205",
+    "instagram": "https://www.instagram.com/whitesquareupvc?igsh=d3lidTc3dncyZWVr",
+    "youtube": "https://www.youtube.com/@WhiteSquareUPVCWindoor"
+  },
+  "brochurePdf": "/assets/White-Square-Brochure.pdf"
+}
